@@ -1602,12 +1602,14 @@ const fileResponse: FileResponse = {
     "1:4": {
       key: "6423a47a86252d4f1f83891572fef19b8a8dfcc5",
       name: "Heading",
-      styleType: "TEXT"
+      styleType: "TEXT",
+      description: ""
     },
     "1:7": {
       key: "2a4d9307a0f2fc42ff4e4eae7991b557b8618c73",
       name: "red",
-      styleType: "FILL"
+      styleType: "FILL",
+      description: ""
     }
   },
   name: "Test X-Ray Doc",
